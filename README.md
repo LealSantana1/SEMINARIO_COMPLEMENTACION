@@ -3,20 +3,20 @@
 
 	
 **EJERCICIO1**
-
+--
 SELECT IDProyecto,NombreProyecto
        FROM Proyecto;
 
 	
 **EJERCICIO2**
-
+--
 SELECT NombreProyecto,Ubicacion
 FROM Proyecto
 WHERE Ubicacion = 'CHICAGO';
 
 	
 **EJERCICIO3**
-
+--
 SELECT NombreProyecto, Ubicacion, IDDepartamento
 FROM Proyecto
 WHERE IDDepartamento = 2;
