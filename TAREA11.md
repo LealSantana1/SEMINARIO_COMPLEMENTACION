@@ -5,7 +5,7 @@
 __EJERCICIO1__
 
 >SELECT IDProyecto,NombreProyecto
->FROM Proyecto;
+FROM Proyecto;
 
 	
 **EJERCICIO2**
