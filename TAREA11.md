@@ -8,7 +8,7 @@ SELECT IDProyecto,NombreProyecto
        FROM Proyecto;
 
 	
-"**EJERCICIO2**";
+**EJERCICIO2**
 
 SELECT NombreProyecto,Ubicacion
 FROM Proyecto
