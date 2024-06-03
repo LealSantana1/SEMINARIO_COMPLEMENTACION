@@ -2,11 +2,11 @@
 **TAREA11**
 
 	
-__EJERCICIO1__
-
->SELECT IDProyecto,NombreProyecto
+**EJERCICIO1**
+´´´´
+SELECT IDProyecto,NombreProyecto
 FROM Proyecto;
-
+´´´
 	
 **EJERCICIO2**
 
