@@ -4,8 +4,8 @@
 	
 **EJERCICIO1**
 '''
-[SELECT IDProyecto,NombreProyecto
-       FROM Proyecto;]
+{SELECT IDProyecto,NombreProyecto
+       FROM Proyecto;}
        '''
 	
 **EJERCICIO2**
